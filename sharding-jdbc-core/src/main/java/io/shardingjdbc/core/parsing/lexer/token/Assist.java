@@ -18,7 +18,7 @@
 package io.shardingjdbc.core.parsing.lexer.token;
 
 /**
- * Assist token.
+ * Assist token. 词法辅助标记
  *
  * @author zhangliang
  */
